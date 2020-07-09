@@ -2,7 +2,7 @@
 
 # Open Source RF Pulse Design Demos
 
-This repository contains a series of interactive demos on RF Pulse Design in the form of Jupyter Notebooks. They exist as a part of the lecture **"Open Source Pulse Design and Interactive Demonstraction"** from the ISMRM 2020 Annual Meeting's educational session **"Hands-On: Pulse Sequence & RF Pulse Design"**.
+This repository contains a series of interactive demos on RF Pulse Design in the form of Jupyter Notebooks. They supplement the lecture **"Open Source Pulse Design and Interactive Demonstraction"** from the ISMRM 2020 Annual Meeting's educational session **"Hands-On: Pulse Sequence & RF Pulse Design"** given by Jonathan Martin of the Grissom Lab at Vanderbilt University. 
 
 ## Setup
 
