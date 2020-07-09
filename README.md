@@ -1,15 +1,14 @@
-
 ![banner](figures/VConference-Slider.jpg)
 
 # Open Source RF Pulse Design Demos
 
-This repository contains a series of interactive demos on RF Pulse Design in the form of Jupyter Notebooks. They exist as a part of the lecture **"Open Source Pulse Design and Interactive Demonstraction"** from the ISMRM 2020 educational session **"Hands-On: Pulse Sequence & RF Pulse Design"**.
+This repository contains a series of interactive demos on RF Pulse Design in the form of Jupyter Notebooks. They exist as a part of the lecture **"Open Source Pulse Design and Interactive Demonstraction"** from the ISMRM 2020 Annual Meeting's educational session **"Hands-On: Pulse Sequence & RF Pulse Design"**.
 
 ## Setup
 
 The user has two options for running the demonstration Jupyter notebooks.
 
-**1. Binder (recommended):** Binder is a service that provides ready-made software environments that can be opened and run in the browser. To run the demos in the browser, click on this icon: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonbmartin/open-source-pulse-design/master). The exercises can then be opened and run in the same manner as any other .ipynb file simply by clicking on their filenames once the environment is built, with no local installs.
+**1. Binder (recommended):** Binder is a service that provides software environments that can be opened and run in entirely in the cloud. To run the demos in the browser, click on this icon: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonbmartin/open-source-pulse-design/master). The exercises can then be opened and run in the same manner as any other .ipynb file simply by clicking on their filenames once the environment is built, with no local installs.
 
 **2. Locally:** To run the demos locally, the repository should be downloaded and its contents extracted. The following requirements will need to be satisfied on your device:
   - Python >= 3.5
@@ -21,7 +20,7 @@ The user has two options for running the demonstration Jupyter notebooks.
   
 ## Guide for the use of this notebook
 
-The exercise/ folder in the repository contains four exercise .ipynb files, covering SLR, multiband, adiabatic, and pTx pulse design. These notebooks are primarily skeleton code, which the participant should finish. Solutions are found in the solutions/ folder. 
+The /exercise/ folder in the repository contains four exercise .ipynb files, covering SLR, multiband, adiabatic, and pTx pulse design. These notebooks are primarily skeleton code, which the participant should finish. Solutions are found in the /solutions/ folder. 
 
 The video lecture that introduces these exercises will be posted on the ISMRM website and linked to in this repository at a future date. It is recommended that you work through the exercises in parallel with the video lecture. 
 
