@@ -8,7 +8,7 @@ This repository contains a series of interactive demos on RF Pulse Design in the
 
 The user has two options for running the demonstration Jupyter notebooks.
 
-**1. Binder (recommended):** Binder is a service that provides software environments that can be opened and run in entirely in the cloud. To run the demos in the browser, click on this icon: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonbmartin/open-source-pulse-design/master). The exercises can then be opened and run in the same manner as any other .ipynb file simply by clicking on their filenames once the environment is built, with no local installs.
+**1. Binder (recommended):** Binder is a service that provides software environments that can be opened and run in entirely in the cloud. To run the demos in the browser, click on this icon: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonbmartin/open-source-pulse-design/master) The exercises can then be opened and run in the same manner as any other .ipynb file simply by clicking on their filenames once the environment is built, with no local installs.
 
 **2. Locally:** To run the demos locally, the repository should be downloaded and its contents extracted. The following requirements will need to be satisfied on your device:
   - Python >= 3.5
