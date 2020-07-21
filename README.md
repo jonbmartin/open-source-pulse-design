@@ -7,10 +7,10 @@ This repository contains a series of interactive demos on RF Pulse Design in the
 ## Exercises
 This demo is split into four sets of exercises, each in their own python notebook:
 
-1. [SLR Pulse Design](exercises/Ex1 SLR Pulse Design.ipynb): This notebook goes through the essentials of SLR pulse design with SigPy.
-2. [Pulse Multibanding](exercises/Ex2 Multiband Pulse Design.ipynb): This notebook builds on the first by teaching how to multiband an SLR pulse to excite simultaneous slices and how to design a PINS multiband pulse.
-3. [Adiabatic Pulse Design](exercises/Ex3 Adiabatic Pulse Design.ipynb): The third set of exercises focus on the design of adiabatic RF pulses for excitation and inversion.
-4. [Parallel Transmission](exercises/Ex4 Parallel Transmission.ipynb): The last notebook works through a small-tip spatial-domain pulse design for a parallel transmission system. It also provides information on some of the useful abstractions that SigPy includes, such as Linops and Algs. 
+1. [SLR Pulse Design](exercises/Ex1-SLR-Pulse-Design.ipynb): This notebook goes through the essentials of SLR pulse design with SigPy.
+2. [Pulse Multibanding](exercises/Ex2-Multiband-Pulse-Design.ipynb): This notebook builds on the first by teaching how to multiband an SLR pulse to excite simultaneous slices and how to design a PINS multiband pulse.
+3. [Adiabatic Pulse Design](exercises/Ex3-Adiabatic-Pulse-Design.ipynb): The third set of exercises focus on the design of adiabatic RF pulses for excitation and inversion.
+4. [Parallel Transmission](exercises/Ex4-Parallel-Transmission.ipynb): The last notebook works through a small-tip spatial-domain pulse design for a parallel transmission system. It also provides information on some of the useful abstractions that SigPy includes, such as Linops and Algs. 
 
 
 ## Setup
