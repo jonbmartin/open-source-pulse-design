@@ -20,10 +20,15 @@ The user has two options for running the demonstration Jupyter notebooks.
   
 ## Guide for the use of this notebook
 
-The /exercise/ folder in the repository contains four exercise .ipynb files, covering SLR, multiband, adiabatic, and pTx pulse design. These notebooks are primarily skeleton code, which the participant should finish. Solutions are found in the /solutions/ folder. 
+The exercise folder in the repository contains four exercise .ipynb files, covering SLR, multiband, adiabatic, and pTx pulse design. These notebooks are primarily skeleton code, which the participant should fill in to complete the pulse design. Solutions are found in the solutions folder. 
 
 The video lecture that introduces these exercises will be posted on the ISMRM website and linked to in this repository at a future date. It is recommended that you work through the exercises in parallel with the video lecture. 
 
 The pulse designers used in this tutorial are a part of the SigPy python package. SigPy documentation is [here](https://sigpy.readthedocs.io/en/latest), the source code is [here](https://github.com/mikgroup/sigpy), and tutorials on the use of SigPy for image recon are [here](https://github.com/mikgroup/sigpy-mri-tutorial).
 
 For additional background reading, we recommend the Handbook of MRI Pulse Sequences by Berstein, King, and Zhou (2004). It provides excellent coverage of SLR and adiabatic pulse design. 
+
+## References 
+
+[1] J. Martin, F. Ong, J. Ma, J. Tamir, M. Lustig, and W. Grissom, “SigPy.RF: Comprehensive Open-Source RF Pulse Design Tools for Reproducible Research”, in Proceedings of the ISMRM Annual Meeting and Exhibition, 2020, p. 1045.
+
