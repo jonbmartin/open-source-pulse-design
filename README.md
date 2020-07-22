@@ -4,15 +4,6 @@
 
 This repository contains a series of interactive demos on RF Pulse Design in the form of Jupyter Notebooks. They supplement the lecture **"Open Source Pulse Design and Interactive Demonstraction"** from the ISMRM 2020 Annual Meeting's educational session **"Hands-On: Pulse Sequence & RF Pulse Design"** given by Jonathan Martin of the Grissom Lab at Vanderbilt University. 
 
-## Exercises
-This demo is split into four sets of exercises, each in their own python notebook:
-
-1. [SLR Pulse Design](exercises/Ex1-SLR-Pulse-Design.ipynb): This notebook goes through the essentials of SLR pulse design with SigPy.
-2. [Pulse Multibanding](exercises/Ex2-Multiband-Pulse-Design.ipynb): This notebook builds on the first by teaching how to multiband an SLR pulse to excite simultaneous slices and how to design a PINS multiband pulse.
-3. [Adiabatic Pulse Design](exercises/Ex3-Adiabatic-Pulse-Design.ipynb): The third set of exercises focus on the design of adiabatic RF pulses for excitation and inversion.
-4. [Parallel Transmission](exercises/Ex4-Parallel-Transmission.ipynb): The last notebook works through a small-tip spatial-domain pulse design for a parallel transmission system. It also provides information on some of the useful abstractions that SigPy includes, such as Linops and Algs. 
-
-
 ## Setup
 
 The user has two options for running the demonstration Jupyter notebooks.
@@ -27,9 +18,15 @@ The user has two options for running the demonstration Jupyter notebooks.
   
   Open the exercises in a notebook by navigating to the directory in which the repostory was installed and typing ``` jupyter notebook ``` into the terminal.
   
-## Guide for the use of this notebook
+## Exercises
+This demo is split into four sets of exercises, each in their own python notebook:
 
-The exercise folder in the repository contains four exercise .ipynb files, covering SLR, multiband, adiabatic, and pTx pulse design. These notebooks are primarily skeleton code, which the participant should fill in to complete the pulse design. Solutions are found in the solutions folder. 
+1. [SLR Pulse Design](exercises/Ex1-SLR-Pulse-Design.ipynb): This notebook goes through the essentials of SLR pulse design with SigPy.
+2. [Pulse Multibanding](exercises/Ex2-Multiband-Pulse-Design.ipynb): This notebook builds on the first by teaching how to multiband an SLR pulse to excite simultaneous slices and how to design a PINS multiband pulse.
+3. [Adiabatic Pulse Design](exercises/Ex3-Adiabatic-Pulse-Design.ipynb): The third set of exercises focus on the design of adiabatic RF pulses for excitation and inversion.
+4. [Parallel Transmission](exercises/Ex4-Parallel-Transmission.ipynb): The last notebook works through a small-tip spatial-domain pulse design for a parallel transmission system. It also provides information on some of the useful abstractions that SigPy includes, such as Linops and Algs. 
+
+These notebooks are primarily skeleton code, which the participant should fill in to complete the pulse design. Solutions are found in the solutions folder. 
 
 The video lecture that introduces these exercises will be posted on the ISMRM website and linked to in this repository at a future date. It is recommended that you work through the exercises in parallel with the video lecture. 
 
