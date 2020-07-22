@@ -8,7 +8,7 @@ This repository contains a series of interactive demos on RF Pulse Design in the
 
 The user has two options for running the demonstration Jupyter notebooks.
 
-**1. Binder (recommended):** Binder is a service that provides software environments that can be opened and run in entirely in the cloud. To run the demos in the browser, click on this icon: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonbmartin/open-source-pulse-design/master) The exercises can then be opened and run in the same manner as any other .ipynb file simply by clicking on their filenames once the environment is built, with no local installs.
+**1. Binder (recommended):** Binder is a service that provides software environments that can be opened and run in entirely in the cloud. **To run the demos in the browser, click on this icon: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonbmartin/open-source-pulse-design/master)** The exercises can then be opened and run in the same manner as any other .ipynb file simply by clicking on their filenames once the environment is built, with no local installs.
 
 **2. Locally:** To run the demos locally, the repository should be downloaded and its contents extracted. The following requirements will need to be satisfied on your device:
   - Python >= 3.5
@@ -19,7 +19,7 @@ The user has two options for running the demonstration Jupyter notebooks.
   Open the exercises in a notebook by navigating to the directory in which the repostory was installed and typing ``` jupyter notebook ``` into the terminal.
   
 ## Exercises
-This demo is split into four sets of exercises, each in their own python notebook:
+This demo is split into four sets of exercises, each in their own python notebook in the exercises folder:
 
 1. [SLR Pulse Design](exercises/Ex1-SLR-Pulse-Design.ipynb): This notebook goes through the essentials of SLR pulse design with SigPy.
 2. [Pulse Multibanding](exercises/Ex2-Multiband-Pulse-Design.ipynb): This notebook builds on the first by teaching how to multiband an SLR pulse to excite simultaneous slices and how to design a PINS multiband pulse.
@@ -27,6 +27,8 @@ This demo is split into four sets of exercises, each in their own python noteboo
 4. [Parallel Transmission](exercises/Ex4-Parallel-Transmission.ipynb): The last notebook works through a small-tip spatial-domain pulse design for a parallel transmission system. It also provides information on some of the useful abstractions that SigPy includes, such as Linops and Algs. 
 
 These notebooks are primarily skeleton code, which the participant should fill in to complete the pulse design. Solutions are found in the solutions folder. 
+
+There is also a supplemental demo on how to use many of SigPy's computational abstractions in the supplemental_demo folder.
 
 The video lecture that introduces these exercises will be posted on the ISMRM website and linked to in this repository at a future date. It is recommended that you work through the exercises in parallel with the video lecture. 
 
