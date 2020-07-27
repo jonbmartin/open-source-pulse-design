@@ -1,5 +1,0 @@
-The reference for the toolbox this demo uses is: 
-
-[1] J. Martin, F. Ong, J. Ma, J. Tamir, M. Lustig, and W. Grissom, “SigPy.RF: Comprehensive Open-Source RF Pulse Design Tools for Reproducible Research”, in Proceedings of the ISMRM Annual Meeting and Exhibition, 2020, p. 1045.
-
-Below are references to the works on which this tutorial was built: 
